@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#a1c6ea"              # Pastel blue
+backgroundColor = "#eaf6ff"           # Soft blue-white
+secondaryBackgroundColor = "#dbeafe"  # Light pastel blue
+textColor = "#1e3a5f"                 # Deep navy for contrast
+font = "sans serif"

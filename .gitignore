@@ -1,0 +1,5 @@
+SignAlphaSet/
+asl_alphabet_train/
+asl_alphabet_test/
+*.h5
+*.pkl
